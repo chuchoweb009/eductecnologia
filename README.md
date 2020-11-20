@@ -1,0 +1,2 @@
+# eductecnologia
+Blog.tec.io
